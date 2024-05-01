@@ -2,26 +2,21 @@
 
   /* colors */
 
-  --color-white: #ffffff;
-  --color-beige: #F0EFE9;
-  --color-light-grey: #efefef;
-  --color-ink: #BCBCBC;
-  --color-dark-grey: #545252;
-  --color-black: #000000;
-
   --color-dark-green: #156062;
   --color-green: #00C092;
   --color-light-pink: #FFBBAB;
   --color-orange: #FB8960;
   --color-pink: #F84157;
   --color-yellow: #F8DE65;
+  --color-white: #ffffff;
+  --color-black: #000000;
 
 
   --color-shadow: rgba(0, 0, 0, 0.6);
 
 
   /* fonts */
-  --font-h1: 'fit-wide', sans-serif;
+  --font-h1: 'Monterrat', sans-serif;
   --font-size-h1: 40px;
   --font-weight-h1: 900;
 
@@ -33,14 +28,14 @@
   --font-weight-h3: 600;
 
   --font-p: 'Montserrat', sans-serif;
-  --font-size-p: 16px;
+  --font-size-p: 14px;
 
   --font-h4: 'Montserrat', sans-serif;
-  --font-size-h4: 16px;
+  --font-size-h4: 14px;
   --font-weight-h4: 600;
 
   --font-h5: 'Montserrat', sans-serif;
-  --font-size-h5: 14px;
+  --font-size-h5: 12px;
   --font-weight-h5: 700;
 
   /* borders */
